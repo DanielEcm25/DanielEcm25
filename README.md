@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="https://github.com/DanielEcm25/DanielEcm25/blob/main/MDanNoctusLogo2.png">
+  <img src="https://github.com/DanielEcm25/DanielEcm25/blob/main/DanNoctusLogo2.png">
 </div>
 <br>
 <div align='center'>
