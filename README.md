@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align='center'>
-  <h1>Hi there</h1>
+  <h1>Hi, welcome to my profile</h1>
 </div>
