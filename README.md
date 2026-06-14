@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 <h1 style="color:red">Holaa</h1>
@@ -15,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align='center' color='red'>
-  juepita
+<div>
+  <img>Imagen
+</div>
+<div align='center'>
+  ## Hi there
 </div>
